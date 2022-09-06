@@ -1,4 +1,4 @@
-<h1>HTML Course</h1>
+<h1>HTML Course Excecise</h1>
 
 <h2>Text Tag Part 1</h2>
 
